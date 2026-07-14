@@ -1,0 +1,23 @@
+ninja: Entering directory `C:\sandbox\csd2101-tutorial\week10 - quiz\Android-Quiz-2_3D-Fan\android\app\.cxx\Debug\366f1u1e\x86_64'
+[1/3] Building CXX object CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Renderer.cpp.o
+In file included from C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Renderer.cpp:2:
+In file included from C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Renderer.h:11:
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Platform.h:24:13: warning: 'PLATFORM_ANDROID' macro redefined [-Wmacro-redefined]
+   24 |     #define PLATFORM_ANDROID
+      |             ^
+<command line>:2:9: note: previous definition is here
+    2 | #define PLATFORM_ANDROID 1
+      |         ^
+1 warning generated.
+[2/3] Building CXX object CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Fan.cpp.o
+In file included from C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Fan.cpp:18:
+In file included from C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Fan.h:23:
+In file included from C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Transform.h:41:
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/Scene/Platform.h:24:13: warning: 'PLATFORM_ANDROID' macro redefined [-Wmacro-redefined]
+   24 |     #define PLATFORM_ANDROID
+      |             ^
+<command line>:2:9: note: previous definition is here
+    2 | #define PLATFORM_ANDROID 1
+      |         ^
+1 warning generated.
+[3/3] Linking CXX shared library "C:\sandbox\csd2101-tutorial\week10 - quiz\Android-Quiz-2_3D-Fan\android\app\build\intermediates\cxx\Debug\366f1u1e\obj\x86_64\libfan3d.so"

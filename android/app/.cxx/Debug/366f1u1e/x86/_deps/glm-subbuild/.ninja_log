@@ -1,0 +1,21 @@
+# ninja log v5
+1	453	8057252604116760	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	ece3a14794358657
+1	453	8057252604116760	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	ece3a14794358657
+454	12613	8057252725771883	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	801b4e58d74bf299
+454	12613	8057252725771883	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	801b4e58d74bf299
+12614	12887	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	33b710ce14c4568f
+12614	12887	0	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	33b710ce14c4568f
+12887	12979	8057252729434867	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	a5236583afc79ef1
+12887	12979	8057252729434867	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	a5236583afc79ef1
+12979	13061	8057252730272276	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	78f945d1227a933c
+12979	13061	8057252730272276	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	78f945d1227a933c
+13061	13146	8057252731103537	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	3e3826d9bb789e03
+13061	13146	8057252731103537	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	3e3826d9bb789e03
+13146	13230	8057252731945764	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	1483fb2151f956de
+13146	13230	8057252731945764	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	1483fb2151f956de
+13230	13335	8057252732982670	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	477599de9b3f6f4d
+13230	13335	8057252732982670	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	477599de9b3f6f4d
+13335	13458	8057252734222437	CMakeFiles/glm-populate-complete	9aa1d5bcaa0f97c7
+13335	13458	8057252734222437	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	9aa1d5bcaa0f97c7
+13335	13458	8057252734222437	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	9aa1d5bcaa0f97c7
+13335	13458	8057252734222437	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	9aa1d5bcaa0f97c7

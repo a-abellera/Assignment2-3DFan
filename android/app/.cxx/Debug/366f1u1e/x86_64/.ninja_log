@@ -1,0 +1,12 @@
+# ninja log v5
+94	4917	8057309587792346	CMakeFiles/fan3d.dir/NativeTemplate.cpp.o	7f1b48278a52aecb
+36	4156	8057254097539379	CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Transform.cpp.o	6a969519b7ede4b0
+69	3522	8057487506411026	CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Fan.cpp.o	e78731952486ba12
+108	6680	8057254122659035	_deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.o	33a45d5348ed968d
+252	6613	8057309604851816	CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Renderer.cpp.o	77da384dd2cf83a2
+76	610	8057254610908429	_deps/glm-build/glm/libglm.a	ab2a938b65d4a7fd
+50	541	8057498923186738	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/x86_64/libfan3d.so	c4f70d42350138f9
+97	1089	8057526503493468	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/x86_64/libfan3d.so	c4f70d42350138f9
+104	5102	8057624038052901	CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Renderer.cpp.o	77da384dd2cf83a2
+176	5296	8057624039917682	CMakeFiles/fan3d.dir/C_/sandbox/csd2101-tutorial/week10_-_quiz/Android-Quiz-2_3D-Fan/Scene/Fan.cpp.o	e78731952486ba12
+5297	5745	8057624044554074	C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/x86_64/libfan3d.so	c4f70d42350138f9

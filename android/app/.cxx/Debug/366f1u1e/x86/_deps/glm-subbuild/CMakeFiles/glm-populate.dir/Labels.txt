@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule
+C:/sandbox/csd2101-tutorial/week10 - quiz/Android-Quiz-2_3D-Fan/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule
